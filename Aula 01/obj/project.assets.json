@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlucardHell\\Desktop\\Bootcamp\\Aula 1\\Aula 1.csproj",
+      "projectUniqueName": "C:\\Users\\AlucardHell\\Documents\\BootCampQuarentena\\Aula 01\\Aula 1.csproj",
       "projectName": "Aula 1",
-      "projectPath": "C:\\Users\\AlucardHell\\Desktop\\Bootcamp\\Aula 1\\Aula 1.csproj",
+      "projectPath": "C:\\Users\\AlucardHell\\Documents\\BootCampQuarentena\\Aula 01\\Aula 1.csproj",
       "packagesPath": "C:\\Users\\AlucardHell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlucardHell\\Desktop\\Bootcamp\\Aula 1\\obj\\",
+      "outputPath": "C:\\Users\\AlucardHell\\Documents\\BootCampQuarentena\\Aula 01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

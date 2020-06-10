@@ -11,3 +11,16 @@ C:\Users\AlucardHell\Desktop\Bootcamp\Aula 1\obj\Debug\netcoreapp3.1\Aula 1.cspr
 C:\Users\AlucardHell\Desktop\Bootcamp\Aula 1\obj\Debug\netcoreapp3.1\Aula 1.dll
 C:\Users\AlucardHell\Desktop\Bootcamp\Aula 1\obj\Debug\netcoreapp3.1\Aula 1.pdb
 C:\Users\AlucardHell\Desktop\Bootcamp\Aula 1\obj\Debug\netcoreapp3.1\Aula 1.genruntimeconfig.cache
+C:\Users\AlucardHell\Documents\BootCampQuarentena\Aula 01\bin\Debug\netcoreapp3.1\Aula 1.exe
+C:\Users\AlucardHell\Documents\BootCampQuarentena\Aula 01\bin\Debug\netcoreapp3.1\Aula 1.deps.json
+C:\Users\AlucardHell\Documents\BootCampQuarentena\Aula 01\bin\Debug\netcoreapp3.1\Aula 1.runtimeconfig.json
+C:\Users\AlucardHell\Documents\BootCampQuarentena\Aula 01\bin\Debug\netcoreapp3.1\Aula 1.runtimeconfig.dev.json
+C:\Users\AlucardHell\Documents\BootCampQuarentena\Aula 01\bin\Debug\netcoreapp3.1\Aula 1.dll
+C:\Users\AlucardHell\Documents\BootCampQuarentena\Aula 01\bin\Debug\netcoreapp3.1\Aula 1.pdb
+C:\Users\AlucardHell\Documents\BootCampQuarentena\Aula 01\obj\Debug\netcoreapp3.1\Aula 1.csprojAssemblyReference.cache
+C:\Users\AlucardHell\Documents\BootCampQuarentena\Aula 01\obj\Debug\netcoreapp3.1\Aula 1.AssemblyInfoInputs.cache
+C:\Users\AlucardHell\Documents\BootCampQuarentena\Aula 01\obj\Debug\netcoreapp3.1\Aula 1.AssemblyInfo.cs
+C:\Users\AlucardHell\Documents\BootCampQuarentena\Aula 01\obj\Debug\netcoreapp3.1\Aula 1.csproj.CoreCompileInputs.cache
+C:\Users\AlucardHell\Documents\BootCampQuarentena\Aula 01\obj\Debug\netcoreapp3.1\Aula 1.dll
+C:\Users\AlucardHell\Documents\BootCampQuarentena\Aula 01\obj\Debug\netcoreapp3.1\Aula 1.pdb
+C:\Users\AlucardHell\Documents\BootCampQuarentena\Aula 01\obj\Debug\netcoreapp3.1\Aula 1.genruntimeconfig.cache
